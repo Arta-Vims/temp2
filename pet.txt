@@ -2,3 +2,5 @@ cat
 dog
 chiken
 phinex
+rat
+cow
